@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalynaB-2908
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning The Odin Project curriculum
+- 🌱 I’m currently learning SheCodes Plus workshop
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
