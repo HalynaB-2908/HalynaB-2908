@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalynaB-2908
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning SheCodes Plus workshop
+- 🌱 I’m currently studying computer engineering in National Technical Univercity Kharkiv
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
